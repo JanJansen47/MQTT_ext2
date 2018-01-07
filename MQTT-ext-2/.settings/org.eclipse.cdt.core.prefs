@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.1592433587/IDF_PATH/delimiter=\:
+environment/project/0.1592433587/IDF_PATH/operation=replace
+environment/project/0.1592433587/IDF_PATH/value=/home/jan/esp/esp-idf
+environment/project/0.1592433587/PATH/delimiter=\:
+environment/project/0.1592433587/PATH/operation=replace
+environment/project/0.1592433587/PATH/value=/home/jan/bin\:/home/jan/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/lib/jvm/java-8-oracle/bin\:/usr/lib/jvm/java-8-oracle/db/bin\:/usr/lib/jvm/java-8-oracle/jre/bin\:/home/jan/esp/xtensa-esp32-elf/bin
+environment/project/0.1592433587/append=true
+environment/project/0.1592433587/appendContributed=true
